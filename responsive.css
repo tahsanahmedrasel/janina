@@ -1,0 +1,25 @@
+@media(max-width:1625px){
+    .header-secation{
+        
+        padding: 2px 0;
+        width: 100%;
+        text-align: center;
+    }
+    
+}
+@media(max-width:1074px){
+    .hero-secation{
+        
+        padding: 20px 0;
+        text-align: center;
+    
+    }
+}
+@media(max-width:1074px){
+    .hero a{
+        
+        padding: 2px 2px;
+        display: inline-none;
+        margin-top: 2px;
+    } 
+}
